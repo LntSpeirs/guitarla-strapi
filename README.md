@@ -1,12 +1,14 @@
 # 🚀 GUITARLA
 
-Proyecto relizado en el curso de UDEMY de Juan pablo de la torre valdez
+Proyecto relizado en el curso de UDEMY de Juan pablo de la torre valdez --> React - La Guía Completa: Hooks Context Redux MERN +15 Apps
 
-API creada con strapi: https://strapi.io/
-Imagenes guardadas en clodinary con su plugin para strapi: https://www.npmjs.com/package/@strapi/provider-upload-cloudinary
+API de guitarras con strapi
 
+- API creada con strapi: https://strapi.io/
 
+- Imagenes guardadas en clodinary con su plugin para strapi: https://www.npmjs.com/package/@strapi/provider-upload-cloudinary
 
+- La base de datos es postgresql creada en render.com: https://dashboard.render.com/d/dpg-cg264mg2qv25u2jt3bd0-a/info
 
 
 # 🚀 Getting started with Strapi
