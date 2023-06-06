@@ -1,4 +1,5 @@
 const path = require('path');
+require('dotenv').config({path: 'path-to-.env'})
 
 module.exports = ({ env }) => {
   const client = env('DATABASE_CLIENT', 'sqlite');
